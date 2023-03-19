@@ -1,0 +1,15 @@
+int[]
+index var  : dizi[i]
+fori(sıra garanti çünkü indexe göre gidiyor)
+foreach(sıra garanti değil)
+
+ArrayList
+index var : (get(i))
+fori  VAR (sıra garanti, çünkü indexe göre gidiyor)
+foreach VAR (sıra garanti değil)
+
+SET lerde
+index YOK
+fori  YOK
+foreach  VAR (sıra garanti değil)
+garanti istiyorsan ITERATOR yöntemi

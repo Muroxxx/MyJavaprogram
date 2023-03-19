@@ -1,0 +1,7 @@
+Final ile yapılan class lardan ınheritence/extend yapılamaz
+Main den direk çağırılarak kullanılabilir
+Değişkenler bir kere atanabilir
+Polymorphism çok formluluk  - Çok çeşitlilik
+Bir NESNEN istenildiğinde, aynı zamanda extend edildiği tür gibi davranmasına
+ve bu şekilde kullanılabilmesine Polymorphism denir
+
