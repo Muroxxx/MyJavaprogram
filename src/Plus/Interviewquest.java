@@ -1,4 +1,4 @@
-package MENTORING;
+package Plus;
 
 import java.util.Scanner;
 

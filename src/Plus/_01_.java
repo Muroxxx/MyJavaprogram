@@ -1,4 +1,4 @@
-package PRO;
+package Plus;
 
 import java.util.Map;
 import java.util.Scanner;
